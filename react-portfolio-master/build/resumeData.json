@@ -40,7 +40,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Here's Some Visual Information On My Strengths.",
     "education": [
       {
         "school": "Pandit Deendayal Petroleum University",
@@ -54,7 +54,7 @@
         "company": "Infosys Limited",
         "title": "Systems Enginner & Database Administrator",
         "years": "December 2017 - Present",
-        "description": "Managing Multiple Databases Administrator for Critical Business Client"
+        "description": "Administration of Multiple Database Flavours for Critical Business Client"
       }
     ],
     "skills": [
@@ -71,7 +71,7 @@
         "level": "72%"
       },
       {
-        "name": "Database(SQL & NoSQL)",
+        "name": "SQL DBs(SQL Server, DB2, Oracle, Netezza)",
         "level": "88%"
       },
       {
@@ -79,7 +79,7 @@
         "level": "95%"
       },
       {
-        "name": "MongoDB",
+        "name": "NoSQL DBs(Firebase, MongoDB)",
         "level": "80%"
       }
     ]
