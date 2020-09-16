@@ -1,0 +1,19 @@
+{
+  "name": "react-portfolio-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dj0024javia/netlify_portfolio.git"
+  },
+  "author": "Dhaval Javia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dj0024javia/netlify_portfolio/issues"
+  },
+  "homepage": "https://github.com/dj0024javia/netlify_portfolio#readme"
+}
