@@ -90,7 +90,7 @@
         "title": "WhatsApp Clone Using Firebase/MongoDb+ExpressJs and React",
         "category": "WhatsApp Clone built with Firebase and React",
         "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "url": "https://whatsapp-clone-5fe20.web.app/"
       },
       {
         "title": "FB Messenger Clone with Firebase React",
@@ -109,12 +109,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "",
+        "user": ""
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "I have known Dhaval for about 3 years since he joined Infosys and i must say, he is one of the brilliant minds in the Project, competing with high experienced Guys at High Positions. I have seen him develop so many automations and those have worked flawlessly till date. Also, He can learn any Language and any technology in no Time! He is currently working on React and i have seen his projects and i must say, they look amazing.!! If you are thinking about hiring this guy or in dilemma, i would say just go for it!!! He can never let you down and will work to any extend to provide valuable work within Given timeline.",
+        "user": "Kamlesh Sawant, Project Team Lead, Infosys."
       }
     ]
   }
